@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Activity>
+	<Set1>
+		<Item>
+		  <Question>1 - ITEMBANK7</Question>
+		  <Correct>1</Correct>
+		  <Wrong1>0</Wrong1>
+		  <Wrong2>0</Wrong2>
+		  <Wrong3>0</Wrong3>
+		</Item>
+		<Item>
+		  <Question>2 - ITEMBANK7</Question>
+		  <Correct>2</Correct>
+		  <Wrong1>0</Wrong1>
+		  <Wrong2>0</Wrong2>
+		  <Wrong3>0</Wrong3>
+		</Item>
+		<Item>
+		  <Question>3 - ITEMBANK7</Question>
+		  <Correct>3</Correct>
+		  <Wrong1>0</Wrong1>
+		  <Wrong2>0</Wrong2>
+		  <Wrong3>0</Wrong3>
+		</Item>
+		<Item>
+		  <Question>4 - ITEMBANK7</Question>
+		  <Correct>4</Correct>
+		  <Wrong1>0</Wrong1>
+		  <Wrong2>0</Wrong2>
+		  <Wrong3>0</Wrong3>
+		</Item>
+	</Set1>
+	<Set2>
+		<Item>
+		  <Question>5 - ITEMBANK7</Question>
+		  <Correct>5</Correct>
+		  <Wrong1>0</Wrong1>
+		  <Wrong2>0</Wrong2>
+		  <Wrong3>0</Wrong3>
+		</Item>
+		<Item>
+		  <Question>6 - ITEMBANK7</Question>
+		  <Correct>6</Correct>
+		  <Wrong1>0</Wrong1>
+		  <Wrong2>0</Wrong2>
+		  <Wrong3>0</Wrong3>
+		</Item>
+		<Item>
+		  <Question>7 - ITEMBANK7</Question>
+		  <Correct>7</Correct>
+		  <Wrong1>0</Wrong1>
+		  <Wrong2>0</Wrong2>
+		  <Wrong3>0</Wrong3>
+		</Item>
+		<Item>
+		  <Question>8 - ITEMBANK7</Question>
+		  <Correct>8</Correct>
+		  <Wrong1>0</Wrong1>
+		  <Wrong2>0</Wrong2>
+		  <Wrong3>0</Wrong3>
+		</Item>
+	</Set2>
+	<Set3>
+		<Item>
+		  <Question>9 - ITEMBANK7</Question>
+		  <Correct>9</Correct>
+		  <Wrong1>0</Wrong1>
+		  <Wrong2>0</Wrong2>
+		  <Wrong3>0</Wrong3>
+		</Item>
+		<Item>
+		  <Question>10 - ITEMBANK7</Question>
+		  <Correct>10</Correct>
+		  <Wrong1>0</Wrong1>
+		  <Wrong2>0</Wrong2>
+		  <Wrong3>0</Wrong3>
+		</Item>
+		<Item>
+		  <Question>11 - ITEMBANK7</Question>
+		  <Correct>11</Correct>
+		  <Wrong1>0</Wrong1>
+		  <Wrong2>0</Wrong2>
+		  <Wrong3>0</Wrong3>
+		</Item>
+		<Item>
+		  <Question>12 - ITEMBANK7</Question>
+		  <Correct>12</Correct>
+		  <Wrong1>0</Wrong1>
+		  <Wrong2>0</Wrong2>
+		  <Wrong3>0</Wrong3>
+		</Item>
+	</Set3>
+</Activity>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Activity>
+	<Set1>
+		<Item>
+		  <Question>1 - ITEMBANK2</Question>
+		  <Correct>TAMA</Correct>
+		  <Wrong1>MALI</Wrong1>
+		  
+		</Item>
+		<Item>
+		  <Question>2 - ITEMBANK2</Question>
+		  <Correct>TAMA</Correct>
+		  <Wrong1>MALI</Wrong1>
+		  
+		</Item>
+		<Item>
+		  <Question>3 - ITEMBANK2</Question>
+		  <Correct>TAMA</Correct>
+		  <Wrong1>MALI</Wrong1>
+		  
+		</Item>
+		<Item>
+		  <Question>4 - ITEMBANK2</Question>
+		  <Correct>TAMA</Correct>
+		  <Wrong1>MALI</Wrong1>
+		  
+		</Item>
+	</Set1>
+	<Set2>
+		<Item>
+		  <Question>5 - ITEMBANK2</Question>
+		  <Correct>TAMA</Correct>
+		  <Wrong1>MALI</Wrong1>
+		  
+		</Item>
+		<Item>
+		  <Question>6 - ITEMBANK2</Question>
+		  <Correct>TAMA</Correct>
+		  <Wrong1>MALI</Wrong1>
+		  
+		</Item>
+		<Item>
+		  <Question>7 - ITEMBANK2</Question>
+		  <Correct>TAMA</Correct>
+		  <Wrong1>MALI</Wrong1>
+		  
+		</Item>
+		<Item>
+		  <Question>8 - ITEMBANK2</Question>
+		  <Correct>TAMA</Correct>
+		  <Wrong1>MALI</Wrong1>
+		  
+		</Item>
+	</Set2>
+	<Set3>
+		<Item>
+		  <Question>9 - ITEMBANK2</Question>
+		  <Correct>TAMA</Correct>
+		  <Wrong1>MALI</Wrong1>
+		  
+		</Item>
+		<Item>
+		  <Question>10 - ITEMBANK2</Question>
+		  <Correct>TAMA</Correct>
+		  <Wrong1>MALI</Wrong1>
+		  
+		</Item>
+		<Item>
+		  <Question>11 - ITEMBANK2</Question>
+		  <Correct>TAMA</Correct>
+		  <Wrong1>MALI</Wrong1>
+		  
+		</Item>
+		<Item>
+		  <Question>12 - ITEMBANK2</Question>
+		  <Correct>TAMA</Correct>
+		  <Wrong1>MALI</Wrong1>
+		  
+		</Item>
+	</Set3>
+</Activity>
